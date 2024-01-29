@@ -1,5 +1,5 @@
 html{
-    height: auto;
+    height: 100%;
     margin: 0;
     padding: 0;
 }
@@ -47,7 +47,6 @@ h1{
     -webkit-background-clip: text;
      background-clip: text;
     color: transparent;
-    font-size: 60px;
 }
 .b{
     height: 40px;
