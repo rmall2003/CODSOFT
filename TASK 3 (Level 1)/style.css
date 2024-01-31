@@ -42,9 +42,9 @@ button{
 }
 h1{
     text-align: center;
-    background: linear-gradient(#860A35, #AF2655, #BE3144, #F05941);
+    background: linear-gradient(#EC53B0, #9D44C0, #4D2DB7, #0E21A0);
     -webkit-background-clip: text;
-     background-clip: text;
+    background-clip: text;
     color: transparent;
 }
 .b{
